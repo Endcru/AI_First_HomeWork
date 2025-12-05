@@ -1,7 +1,5 @@
 streamlit
 pandas
 plotly
-pickle
 seaborn
 matplotlib
-pathlib
